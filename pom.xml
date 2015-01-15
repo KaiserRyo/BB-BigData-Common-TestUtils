@@ -8,8 +8,8 @@
 	</scm>
 		
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.blackberry.bdp.testutils</groupId>
-	<artifactId>testutils</artifactId>
+	<groupId>com.blackberry.bdp.test-utils</groupId>
+	<artifactId>test-utils</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<properties>
