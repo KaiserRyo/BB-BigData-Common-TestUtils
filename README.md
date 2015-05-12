@@ -10,6 +10,9 @@ Creates a local ZooKeeper instance for testing
 ## Building
 Performing a Maven install produces the required artifacts required for downstream dependencies
 
+# BB-BigData-Common-TestUtils
+Common classes for test cases such as local Kafka servers and local ZooKeeper servers.
+
 ## Contributing
 To contribute code to this repository you must be [signed up as an official contributor](http://blackberry.github.com/howToContribute.html).
 
