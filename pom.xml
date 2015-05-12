@@ -2,9 +2,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	
 	<scm>
-		<connection>scm:git:git@gitlab.rim.net:ipgbd-software/test-utils.git</connection>
-		<developerConnection>scm:git:git@gitlab.rim.net:ipgbd-software/test-utils.git</developerConnection>
-		<url>https://gitlab.rim.net/ipgbd-software/test-utils</url>
+		<connection>scm:git:https://github.com/blackberry/BB-BigData-Common-TestUtils.git</connection>
+		<developerConnection>scm:git:https://github.com/blackberry/BB-BigData-Common-TestUtils.git</developerConnection>
+		<url>https://github.com/blackberry/BB-BigData-Common-TestUtils</url>
 	</scm>
 		
 	<modelVersion>4.0.0</modelVersion>
